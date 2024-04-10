@@ -1,3 +1,4 @@
+// Perfect number
 # include <stdio.h>
 
 int checkPerfect(int);

@@ -1,3 +1,4 @@
+// Combination using Factorial
 # include <stdio.h>
 
 int factorial(int);
