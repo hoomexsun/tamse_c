@@ -1,35 +1,35 @@
 # intro_c/lab
 
-`0000`: Hello world
-`0001`: Integer
-...
-`1001`: Convert fahrenheit to Celsius
-`1002`: Leap year
-`1003`: Even or Odd
-`1004`: Octal and hexadecimal of given decimal
-`1005`: Area of triangle using Heron's formula
-`1006`: ASCII Value
-`1007`: Swap two Numbers
-`1008`: Quotient and remainder
-`1009`: Convert period into no. of days, hours, minutes and seconds.
-`1010`: Biggest of three numbers
-`1011`: Check if vowel is present in a given string
-`1012`: Day of week using switch
-`1013`: Calculator using switch
-`1014`: Value of y from different equations
-`1015`: Factorial of a number
-`1016`: Factorial of a number
-`1017`: Sum of numbers between 9 and 300 divisible by 7 but not by 63
-`1018`: Printing a pattern
-`1019`: N odd natural numbers and their sum
-`1020`: Multiplication table for a given integer
-`1021`: Bubble sort
-`1022`: Linear Search
-`1023`: Sum of two matrices
-`1024`: Transpose of matrix
-`1025`: Count occurence of particular character in a given string
-`1026`: Count number of vowels in a given string
-`1027`: Combination using Factorial
-`1028`: Perfect number
-`1029`: Swap two numbers using call by reference
-`1030`: Factorial of a number using recursive function
+- `0000`: Hello world
+- `0001`: Integer
+- `...`
+- `1001`: Convert fahrenheit to Celsius
+- `1002`: Leap year
+- `1003`: Even or Odd
+- `1004`: Octal and hexadecimal of given decimal
+- `1005`: Area of triangle using Heron's formula
+- `1006`: ASCII Value
+- `1007`: Swap two Numbers
+- `1008`: Quotient and remainder
+- `1009`: Convert period into no. of days, hours, minutes and seconds.
+- `1010`: Biggest of three numbers
+- `1011`: Check if vowel is present in a given string
+- `1012`: Day of week using switch
+- `1013`: Calculator using switch
+- `1014`: Value of y from different equations
+- `1015`: Factorial of a number
+- `1016`: Factorial of a number
+- `1017`: Sum of numbers between 9 and 300 divisible by 7 but not by 63
+- `1018`: Printing a pattern
+- `1019`: N odd natural numbers and their sum
+- `1020`: Multiplication table for a given integer
+- `1021`: Bubble sort
+- `1022`: Linear Search
+- `1023`: Sum of two matrices
+- `1024`: Transpose of matrix
+- `1025`: Count occurence of particular character in a given string
+- `1026`: Count number of vowels in a given string
+- `1027`: Combination using Factorial
+- `1028`: Perfect number
+- `1029`: Swap two numbers using call by reference
+- `1030`: Factorial of a number using recursive function

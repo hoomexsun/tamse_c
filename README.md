@@ -14,7 +14,7 @@ Install GNU C Compiler (GCC) depending on your Operating System.
 
 1. Download [Minimilastic GNU for Windows](https://sourceforge.net/projects/mingw/files/latest/download). After download,
    - Click on the downloaded `mingw-get-setup.exe` file.
-   - Click on `Install`
+   - Click on `Install`.
      ![install](./images/1_install.png)
    - Keep default installation directory and click on `Continue`.
      ![install](./images/2_continue.png)
