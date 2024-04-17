@@ -1,4 +1,6 @@
-# intro_C
+# ꯇꯝꯁꯦ C
+
+![logo](./images/logo_tamse_blue_c.png)
 
 **Introduction to C-Programming.** C is a compiled language and thus needs a compiler.
 
