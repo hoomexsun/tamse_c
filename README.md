@@ -1,8 +1,12 @@
 # ꯇꯝꯁꯦ C
 
-![logo](./images/logo_tamse_blue_c.png)
+![logo](./images/tamse_logo_c.png)
 
-**Introduction to C-Programming.** C is a compiled language and thus needs a compiler.
+Introduction to **C** Programming.
+
+C is a procedural, compiled, platform-dependent language. It needs a compiler and GNU C Compiler is a popular one.
+
+What we will do?
 
 1. Install GCC.
 2. Write C program.
@@ -94,13 +98,13 @@ Say filename: `hello.c`
   gcc hello.c
   ```
 
-- This will create `a.exe` on Windows. To run it,
+- This will create an executable `a.exe` on Windows. To run it,
 
   ```bash
   ./a
   ```
 
-- This will create `a.out` on Ubuntu/Mac. To run it,
+- This will create an executable `a.out` on Ubuntu/Mac. To run it,
 
   ```sh
   ./a.out
